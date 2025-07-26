@@ -16,8 +16,8 @@
 ### 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkgajera27@gmail.com)
-[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Finstagram-logo-black&psig=AOvVaw0yjeSoIFsqz6FDE93VSa7b&ust=1752814747139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj-ubGOw44DFQAAAAAdAAAAABAE)](https://www.instagram.com/rakshit__gajera)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yash_8055)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rakshit__gajera)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rakshit_OP1)
 
 ---
 
